@@ -1,0 +1,11 @@
+E:\GitHub\CSharpATM\PKUBank\PKUBank\bin\Debug\PKUBank.exe.config
+E:\GitHub\CSharpATM\PKUBank\PKUBank\bin\Debug\PKUBank.exe
+E:\GitHub\CSharpATM\PKUBank\PKUBank\bin\Debug\PKUBank.pdb
+E:\GitHub\CSharpATM\PKUBank\PKUBank\obj\Debug\PKUBank.csprojResolveAssemblyReference.cache
+E:\GitHub\CSharpATM\PKUBank\PKUBank\obj\Debug\PKUBank.ATMLogin.resources
+E:\GitHub\CSharpATM\PKUBank\PKUBank\obj\Debug\PKUBank.ATMOperate.resources
+E:\GitHub\CSharpATM\PKUBank\PKUBank\obj\Debug\PKUBank.ATMTransfer.resources
+E:\GitHub\CSharpATM\PKUBank\PKUBank\obj\Debug\PKUBank.Properties.Resources.resources
+E:\GitHub\CSharpATM\PKUBank\PKUBank\obj\Debug\PKUBank.csproj.GenerateResource.Cache
+E:\GitHub\CSharpATM\PKUBank\PKUBank\obj\Debug\PKUBank.exe
+E:\GitHub\CSharpATM\PKUBank\PKUBank\obj\Debug\PKUBank.pdb
